@@ -1,3 +1,4 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -19,36 +20,47 @@
   </build>
 
   <dependencies>
-        <!-- Spark Core -->
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-core_2.12</artifactId>
-            <version>3.4.0</version>
-        </dependency>
-        <!-- Spark SQL -->
-        <dependency>
-            <groupId>org.apache.spark</groupId>
-            <artifactId>spark-sql_2.12</artifactId>
-            <version>3.4.0</version>
-        </dependency>
-        <!-- Oracle JDBC Driver -->
-        <dependency>
-            <groupId>com.oracle.database.jdbc</groupId>
-            <artifactId>ojdbc8</artifactId>
-            <version>21.10.0.0</version>
-        </dependency>
-        <!-- Hadoop AWS -->
-        <dependency>
-            <groupId>org.apache.hadoop</groupId>
-            <artifactId>hadoop-aws</artifactId>
-            <version>3.3.1</version>
-        </dependency>
+    <!-- Spark Core -->
+    <dependency>
+        <groupId>org.apache.spark</groupId>
+        <artifactId>spark-core_2.12</artifactId>
+        <version>3.4.1</version> <!-- Updated to 3.4.1 for compatibility -->
+    </dependency>
 
-        <dependency>
-          <groupId>junit</groupId>
-          <artifactId>junit</artifactId>
-          <version>3.8.1</version>
-          <scope>test</scope>
-        </dependency>
+    <!-- Spark SQL -->
+    <dependency>
+        <groupId>org.apache.spark</groupId>
+        <artifactId>spark-sql_2.12</artifactId>
+        <version>3.4.1</version> <!-- Updated to 3.4.1 for compatibility -->
+    </dependency>
+
+    <!-- MongoDB Spark Connector -->
+    <dependency>
+        <groupId>org.mongodb.spark</groupId>
+        <artifactId>mongo-spark-connector_2.12</artifactId>
+        <version>10.4.0</version> <!-- Ensure compatibility with Spark 3.4.1 -->
+    </dependency>
+
+    <!-- Oracle JDBC Driver -->
+    <dependency>
+        <groupId>com.oracle.database.jdbc</groupId>
+        <artifactId>ojdbc8</artifactId>
+        <version>21.10.0.0</version>
+    </dependency>
+
+    <!-- Hadoop AWS for S3 -->
+    <dependency>
+        <groupId>org.apache.hadoop</groupId>
+        <artifactId>hadoop-aws</artifactId>
+        <version>3.3.4</version> <!-- Updated for compatibility -->
+    </dependency>
+
+    <!-- Testing -->
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version> <!-- Updated to a more recent version -->
+        <scope>test</scope>
+    </dependency>
   </dependencies>
 </project>

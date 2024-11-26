@@ -14,6 +14,7 @@ docker run -d --name spark-worker --link spark-master:spark-master \
   -v ~/downloads/hadoop-aws-3.4.1.jar:/opt/spark/jars/hadoop-aws-3.4.1.jar  -v ~/downloads/aws-java-sdk-bundle-1.11.901.jar:/opt/spark/jars/aws-java-sdk-bundle-1.11.901.jar  \
   bitnami/spark:latest
 
+docker cp src/main/resources/secrets.properties spark-worker:/tmp/secrets.properties
 
 docker exec -it spark-worker spark-submit \
   --master spark://spark-master:7077 \
