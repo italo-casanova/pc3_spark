@@ -1,5 +1,5 @@
 <factorypath>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-core_2.12/3.4.0/spark-core_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-core_2.12/3.4.1/spark-core_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/avro/avro/1.11.1/avro-1.11.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.12.7/jackson-core-2.12.7.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/avro/avro-mapred/1.11.1/avro-mapred-1.11.1.jar" enabled="true" runInBatchMode="false"/>
@@ -14,15 +14,15 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/hadoop/hadoop-client-api/3.3.4/hadoop-client-api-3.3.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/hadoop/hadoop-client-runtime/3.3.4/hadoop-client-runtime-3.3.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-launcher_2.12/3.4.0/spark-launcher_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-kvstore_2.12/3.4.0/spark-kvstore_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-launcher_2.12/3.4.1/spark-launcher_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-kvstore_2.12/3.4.1/spark-kvstore_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/fusesource/leveldbjni/leveldbjni-all/1.8/leveldbjni-all-1.8.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.14.2/jackson-annotations-2.14.2.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-network-common_2.12/3.4.0/spark-network-common_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-network-common_2.12/3.4.1/spark-network-common_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/google/crypto/tink/tink/1.7.0/tink-1.7.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/google/code/gson/gson/2.8.9/gson-2.8.9.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-network-shuffle_2.12/3.4.0/spark-network-shuffle_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-unsafe_2.12/3.4.0/spark-unsafe_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-network-shuffle_2.12/3.4.1/spark-network-shuffle_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-unsafe_2.12/3.4.1/spark-unsafe_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/javax/activation/activation/1.1.1/activation-1.1.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/curator/curator-recipes/2.13.0/curator-recipes-2.13.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/curator/curator-framework/2.13.0/curator-framework-2.13.0.jar" enabled="true" runInBatchMode="false"/>
@@ -49,7 +49,7 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/logging/log4j/log4j-1.2-api/2.19.0/log4j-1.2-api-2.19.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/ning/compress-lzf/1.1.2/compress-lzf-1.1.2.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/xerial/snappy/snappy-java/1.1.9.1/snappy-java-1.1.9.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/xerial/snappy/snappy-java/1.1.10.1/snappy-java-1.1.10.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/lz4/lz4-java/1.8.0/lz4-java-1.8.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/github/luben/zstd-jni/1.5.2-5/zstd-jni-1.5.2-5.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/roaringbitmap/RoaringBitmap/0.9.38/RoaringBitmap-0.9.38.jar" enabled="true" runInBatchMode="false"/>
@@ -108,13 +108,13 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/oro/oro/2.0.8/oro-2.0.8.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/net/razorvine/pickle/1.3/pickle-1.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/net/sf/py4j/py4j/0.10.9.7/py4j-0.10.9.7.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-tags_2.12/3.4.0/spark-tags_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-tags_2.12/3.4.1/spark-tags_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/commons/commons-crypto/1.1.0/commons-crypto-1.1.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-sql_2.12/3.4.0/spark-sql_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-sql_2.12/3.4.1/spark-sql_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/rocksdb/rocksdbjni/7.9.2/rocksdbjni-7.9.2.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/univocity/univocity-parsers/2.9.1/univocity-parsers-2.9.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-sketch_2.12/3.4.0/spark-sketch_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-catalyst_2.12/3.4.0/spark-catalyst_2.12-3.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-sketch_2.12/3.4.1/spark-sketch_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/spark/spark-catalyst_2.12/3.4.1/spark-catalyst_2.12-3.4.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/scala-lang/modules/scala-parser-combinators_2.12/2.1.1/scala-parser-combinators_2.12-2.1.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/codehaus/janino/janino/3.1.9/janino-3.1.9.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/codehaus/janino/commons-compiler/3.1.9/commons-compiler-3.1.9.jar" enabled="true" runInBatchMode="false"/>
@@ -125,12 +125,12 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.4/jackson-datatype-jsr310-2.13.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/google/flatbuffers/flatbuffers-java/1.12.0/flatbuffers-java-1.12.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/arrow/arrow-memory-netty/11.0.0/arrow-memory-netty-11.0.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-core/1.8.3/orc-core-1.8.3-shaded-protobuf.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-shims/1.8.3/orc-shims-1.8.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-core/1.8.4/orc-core-1.8.4-shaded-protobuf.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-shims/1.8.4/orc-shims-1.8.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/io/airlift/aircompressor/0.21/aircompressor-0.21.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/jetbrains/annotations/17.0.0/annotations-17.0.0.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/threeten/threeten-extra/1.7.1/threeten-extra-1.7.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-mapreduce/1.8.3/orc-mapreduce-1.8.3-shaded-protobuf.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/orc/orc-mapreduce/1.8.4/orc-mapreduce-1.8.4-shaded-protobuf.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/hive/hive-storage-api/2.8.1/hive-storage-api-2.8.1.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/parquet/parquet-column/1.12.3/parquet-column-1.12.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/parquet/parquet-common/1.12.3/parquet-common-1.12.3.jar" enabled="true" runInBatchMode="false"/>
@@ -139,13 +139,13 @@
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/parquet/parquet-format-structures/1.12.3/parquet-format-structures-1.12.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/parquet/parquet-jackson/1.12.3/parquet-jackson-1.12.3.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/google/protobuf/protobuf-java/3.21.12/protobuf-java-3.21.12.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/spark/mongo-spark-connector_2.12/10.4.0/mongo-spark-connector_2.12-10.4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/mongodb-driver-sync/5.1.4/mongodb-driver-sync-5.1.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/bson/5.1.4/bson-5.1.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/mongodb-driver-core/5.1.4/mongodb-driver-core-5.1.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/bson-record-codec/5.1.4/bson-record-codec-5.1.4.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/com/oracle/database/jdbc/ojdbc8/21.10.0.0/ojdbc8-21.10.0.0.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/hadoop/hadoop-aws/3.3.1/hadoop-aws-3.3.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/com/amazonaws/aws-java-sdk-bundle/1.11.901/aws-java-sdk-bundle-1.11.901.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/hadoop/hadoop-aws/3.3.4/hadoop-aws-3.3.4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/amazonaws/aws-java-sdk-bundle/1.12.262/aws-java-sdk-bundle-1.12.262.jar" enabled="true" runInBatchMode="false"/>
     <factorypathentry kind="VARJAR" id="M2_REPO/org/wildfly/openssl/wildfly-openssl/1.0.7.Final/wildfly-openssl-1.0.7.Final.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/spark/mongo-spark-connector_2.12/10.1.1/mongo-spark-connector_2.12-10.1.1.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/mongodb-driver-sync/4.8.2/mongodb-driver-sync-4.8.2.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/bson/4.8.2/bson-4.8.2.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/mongodb-driver-core/4.8.2/mongodb-driver-core-4.8.2.jar" enabled="true" runInBatchMode="false"/>
-    <factorypathentry kind="VARJAR" id="M2_REPO/org/mongodb/bson-record-codec/4.8.2/bson-record-codec-4.8.2.jar" enabled="true" runInBatchMode="false"/>
 </factorypath>
